@@ -1,5 +1,5 @@
 # runtimePolymorphism_Java
-This is a school assignment that focuses on my understanding of Polymorphism in Java programming.
+This is a UOW school assignment that focuses on my understanding of Polymorphism in Java programming.
 
 Visit https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/ to understand polymorphism.
 
